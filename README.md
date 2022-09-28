@@ -1,3 +1,7 @@
+**** Application under development that shows the top 100 cryptocurrencies of the day, which comes from an API and gives us the price, price change, volume and a search engine to find the favorite cryptocurrency. ********
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
